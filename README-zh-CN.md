@@ -12,7 +12,9 @@ Auto Caption 是一个能够自动将音频转换出 SRT 字幕文件的工具�
 
 ### Step 1 -  Installation - 安装
 
-从这个指定的链接下载 AutoCaption 安装包，并且把它拖到「应用」文件夹中，就完成安装了。
+从这个指定的链接 https://github.com/lbj96347/auto-caption-mac/releases/download/v1.0.0/AutoCaption.app.zip
+
+下载 AutoCaption 安装包，并且把它拖到「应用」文件夹中，就完成安装了。
 
 打开应用时需要允许其在你的 mac 上面运行，可能会出现安全提示，可以通过以下步骤完成解锁：
 

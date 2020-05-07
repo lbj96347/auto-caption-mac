@@ -2,7 +2,7 @@
 
 Auto Caption is tool can help creators to transform audio sources into SRT file automatically. It runs on macOS locally, that means you don't have to upload your audio sources to a third party platform. It bases on macOS speech recognition feature, maybe the accuracy is not perfect but it must help you to improve your efficiency. 
 
-Now it supports Cantonese, Mandarian & English. If your wanna add more language support please feel free to talk with me.
+Now it supports Cantonese, Mandarin & English. If your wanna add more language support please feel free to talk with me.
 
 
 
@@ -10,7 +10,7 @@ Now it supports Cantonese, Mandarian & English. If your wanna add more language 
 
 ### Step 1 -  Installation
 
-Download AutoCaption from https://github.com/lbj96347/ 
+Download AutoCaption from https://github.com/lbj96347/auto-caption-mac/releases/download/v1.0.0/AutoCaption.app.zip
 
 Install lastest version: Drag & drop into Application folder 
 
